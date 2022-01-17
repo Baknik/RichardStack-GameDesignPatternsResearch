@@ -1,11 +1,6 @@
-# UnityURP2DPrototypeTemplate
-A Unity project template to jump-start 2D prototypes.
+# Research on Game Design Patterns
+# Richard Stack
+My attempt to catalogue and understand the building blocks of which good games are composed.
 
-Includes:
-* 2D Rendering pipeline with lighting
-* Moveable sprite-based character using Physics2D and the Unity Input System
-* Code for clickable sprites
-
-Plugin Requirements:
-* DoTween Pro
-* Dreamteck Splines
+## Reference
+http://tecfa.unige.ch/tecfa/maltt/VIP/Ressources/Articles/Game%20Design%20Patterns/collection/
